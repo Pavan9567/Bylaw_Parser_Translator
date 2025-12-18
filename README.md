@@ -55,31 +55,6 @@ This project implements a **two-step processing pipeline** with a web interface 
 
 ---
 
-## 📁 Project Structure
-
-bylaw-parser/ 
-  │ ├── backend/ │   
-      ├── app/ │   
-      │   ├── main.py │   
-      │   ├── routes.py │   
-      │   ├── pdf_extractor.py │   
-      │   └── translator.py │   
-      ├── uploads/ │   
-      ├── .env │   
-      ├── requirements.txt │ 
-    ├── frontend/ │   
-      ├── src/ │   
-      │   ├── components/ │   
-      │   ├── api.js │   
-      │   ├── App.jsx │   
-      │   ├── main.jsx │   
-      │   └── styles.css │   
-      │ │   ├── package.json │   
-      ├── package-lock.json │   
-    └── .gitignore
-    │ └── README.md
-
-
 ---
 
 ## ⚙️ Backend Setup (FastAPI)
