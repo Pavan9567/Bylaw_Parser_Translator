@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.local
+
+# Build output
+dist/
+build/
+.next/
+
+# OS
+.DS_Store
