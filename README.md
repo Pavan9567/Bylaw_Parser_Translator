@@ -58,7 +58,7 @@ This project implements a **two-step processing pipeline** with a web interface 
 ## 📁 Project Structure
 
 bylaw-parser/ 
-│ ├── backend/ │   
+  │ ├── backend/ │   
       ├── app/ │   
       │   ├── main.py │   
       │   ├── routes.py │   
@@ -67,7 +67,7 @@ bylaw-parser/
       ├── uploads/ │   
       ├── .env │   
       ├── requirements.txt │ 
-  ├── frontend/ │   
+    ├── frontend/ │   
       ├── src/ │   
       │   ├── components/ │   
       │   ├── api.js │   
@@ -76,8 +76,8 @@ bylaw-parser/
       │   └── styles.css │   
       │ │   ├── package.json │   
       ├── package-lock.json │   
-  └── .gitignore
-  │ └── README.md
+    └── .gitignore
+    │ └── README.md
 
 
 ---
