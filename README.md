@@ -83,17 +83,6 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-requirements.txt
-
-fastapi
-uvicorn
-pdfplumber
-python-multipart
-pydantic
-openai
-python-dotenv
-
-
 ---
 
 Environment Variables
